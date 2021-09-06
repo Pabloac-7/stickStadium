@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 3e148bd483acb934b8f081227b2b3302
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4334783836991956000
+    second: player1WalkBlock0
+  - first:
+      213: 2173022535036171327
+    second: player1Icon
+  - first:
+      213: -367649940748972855
+    second: player2Icon
+  - first:
+      213: 7742153711776695594
+    second: player1
+  - first:
+      213: -1118518134193119429
+    second: ground
+  - first:
+      213: 3370945714175643620
+    second: player1Walk0
+  - first:
+      213: -1568047032171847025
+    second: player1Walk1
+  - first:
+      213: 5203432850054067133
+    second: player1Punch0
+  - first:
+      213: 2656711828409440315
+    second: player1Punch1
+  - first:
+      213: 4976683948947216068
+    second: player1Kick0
+  - first:
+      213: -626299205569174114
+    second: player1Kick1
+  - first:
+      213: -2290759029982737272
+    second: player1Block
+  - first:
+      213: -6541940493819584082
+    second: player1Dash
+  - first:
+      213: -6662748767545056368
+    second: player1Jump
+  - first:
+      213: 3709515919459806257
+    second: player1JumpKick
+  - first:
+      213: 7388399842426930641
+    second: player1WalkBlock1
+  - first:
+      213: -4425826372164518114
+    second: player1WallJump0
+  - first:
+      213: -1468662630685956087
+    second: player1Waljump1
+  - first:
+      213: -425038079079660775
+    second: player1WallJump2
+  - first:
+      213: -1655569637038959087
+    second: whitePixel
+  - first:
+      213: 5276428020779809605
+    second: player2
+  - first:
+      213: -2385711215166665074
+    second: player2WalkBlock0
+  - first:
+      213: 91347565436541707
+    second: player2WalkBlock1
+  - first:
+      213: 8501651986950833586
+    second: player2Walk0
+  - first:
+      213: 2062003781444418071
+    second: player2Walk1
+  - first:
+      213: 8134357917411284578
+    second: player2Punch0
+  - first:
+      213: -376478798477520568
+    second: player2Punch1
+  - first:
+      213: 6337600087762532536
+    second: player2Kick0
+  - first:
+      213: 5444255780766953665
+    second: player2Kick1
+  - first:
+      213: -3124896234206955441
+    second: player2Block
+  - first:
+      213: 4096175224616136529
+    second: player2Dash
+  - first:
+      213: -1038307680945443084
+    second: player2Jump
+  - first:
+      213: -8003268268318864655
+    second: player2WalJump0
+  - first:
+      213: -7430801546836589945
+    second: player2WallJump1
+  - first:
+      213: 1710502151380960559
+    second: player2JumpKick
+  - first:
+      213: -4011183355229997250
+    second: player2WallJump2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player1WalkBlock0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a20edeee382c30800000000000000
+      internalID: 4334783836991956000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Icon
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 246
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34ffb18b70282e10800000000000000
+      internalID: 2173022535036171327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Icon
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 189
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc6f7a358d5eaf0800000000000000
+      internalID: -367649940748972855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 309
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a250ceaf7c7a17b60800000000000000
+      internalID: 7742153711776695594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 597
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1690eea93a70f0800000000000000
+      internalID: -1118518134193119429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Walk0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 309
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef809a544108ce20800000000000000
+      internalID: 3370945714175643620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Walk1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 309
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82aa48388d2d3ae0800000000000000
+      internalID: -1568047032171847025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Punch0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 309
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db33210bb9e463840800000000000000
+      internalID: 5203432850054067133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Punch1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 309
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b385ce205598ed420800000000000000
+      internalID: 2656711828409440315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Kick0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 309
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c613681fabb01540800000000000000
+      internalID: 4976683948947216068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Kick1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 309
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a0f8d030fe47f0800000000000000
+      internalID: -626299205569174114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Block
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 309
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c4cd79cc69530e0800000000000000
+      internalID: -2290759029982737272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Dash
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 309
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e32418cb5635a0800000000000000
+      internalID: -6541940493819584082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Jump
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 309
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0932ec2fb492983a0800000000000000
+      internalID: -6662748767545056368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1WalkBlock1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c862e28ed88660800000000000000
+      internalID: 7388399842426930641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1JumpKick
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 189
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cee0c2319da7330800000000000000
+      internalID: 3709515919459806257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1WallJump0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180
+        width: 51
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ff3911d5e4492c0800000000000000
+      internalID: -4425826372164518114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1Waljump1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a2136e134e9be0800000000000000
+      internalID: -1468662630685956087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player1WallJump2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91341787e16f91af0800000000000000
+      internalID: -425038079079660775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitePixel
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 212
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116de5bcf2c3609e0800000000000000
+      internalID: -1655569637038959087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 12
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7f754453a93940800000000000000
+      internalID: 5276428020779809605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2WalkBlock0
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 12
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e43533a4044eed0800000000000000
+      internalID: -2385711215166665074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2WalkBlock1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 183
+        width: 36
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b11f47028844100800000000000000
+      internalID: 91347565436541707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Walk0
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 12
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c23e307febf570800000000000000
+      internalID: 8501651986950833586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Walk1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 12
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab186a385bd9c10800000000000000
+      internalID: 2062003781444418071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Punch0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 12
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2669f2f9d6b03e070800000000000000
+      internalID: 8134357917411284578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Punch1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 12
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8411847078a76caf0800000000000000
+      internalID: -376478798477520568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Kick0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 12
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f197a3bda3f750800000000000000
+      internalID: 6337600087762532536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Kick1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 12
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c03bf6a9c1ed8b40800000000000000
+      internalID: 5444255780766953665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Block
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4873207e6322a4d0800000000000000
+      internalID: -3124896234206955441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Dash
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f20011aa988d830800000000000000
+      internalID: 4096175224616136529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2Jump
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 48
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feefa55aa03791f0800000000000000
+      internalID: -1038307680945443084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2WalJump0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 51
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fac2b0c9edaee090800000000000000
+      internalID: -8003268268318864655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2WallJump1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 192
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782c16cfc5d70e890800000000000000
+      internalID: -7430801546836589945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2JumpKick
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 198
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258a90e4acecb710800000000000000
+      internalID: 1710502151380960559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player2WallJump2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 198
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377e869df96558c0800000000000000
+      internalID: -4011183355229997250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
