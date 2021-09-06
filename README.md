@@ -1,5 +1,5 @@
 # stickStadium
-Projeto de um jogo simples desenvolvido para disciplina de desenvolvimento de jogos da universidade
+Projeto de um jogo simples desenvolvido para disciplina de desenvolvimento de jogos da universidade  - 2021
 #
 StickStadium é um jogo de luta 2D entre "sticks" (bonecos palito)
 #
